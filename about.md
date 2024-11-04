@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 👀
+title: 👀 About
 permalink: /about/
 ---
 
