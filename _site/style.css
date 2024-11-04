@@ -65,7 +65,7 @@ html {
 }
 
 body {
-  font-family: "Noto Serif", "PT Serif", source-han-serif-sc, "Source Han Serif SC", "Source Han Serif CN", "Source Han Serif TC", "Source Han Serif TW", "Source Han Serif", "Songti SC", SimSon, serif;
+  font-family: "Noto Sans", "PT Sans", source-han-sans-sc, "Source Han Sans SC", "Source Han Sans CN", "Source Han Sans TC", "Source Han Sans TW", "Source Han Sans", "Songti SC", SimSon, sans-serif;
   color: #343a40;
   line-height: 1.7em;
 }
@@ -467,7 +467,7 @@ img {
   margin: 0 auto;
   color: #343a40;
   cursor: pointer;
-  font-family: "Noto Serif", "PT Serif", source-han-serif-sc, "Source Han Serif SC", "Source Han Serif CN", "Source Han Serif TC", "Source Han Serif TW", "Source Han Serif", "Songti SC", SimSon, serif;
+  font-family: "Noto Sans", "PT Sans", source-han-sans-sc, "Source Han Sans SC", "Source Han Sans CN", "Source Han Sans TC", "Source Han Sans TW", "Source Han Sans", "Songti SC", SimSon, sans-serif;
   font-weight: 700;
   font-size: 28px;
   letter-spacing: 1px;
@@ -492,7 +492,7 @@ img {
 nav {
   display: block;
   margin-top: 23px;
-  font-family: "Noto Serif", "PT Serif", source-han-serif-sc, "Source Han Serif SC", "Source Han Serif CN", "Source Han Serif TC", "Source Han Serif TW", "Source Han Serif", "Songti SC", SimSon, serif;
+  font-family: "Noto Sans", "PT Sans", source-han-sans-sc, "Source Han Sans SC", "Source Han Sans CN", "Source Han Sans TC", "Source Han Sans TW", "Source Han Sans", "Songti SC", SimSon, sans-serif;
   font-weight: 500;
   font-size: 18px;
 }
@@ -1146,7 +1146,7 @@ pre.highlight {
 
 .markdown-body {
   color: #343a40;
-  font-family: "Noto Serif", "PT Serif", source-han-serif-sc, "Source Han Serif SC", "Source Han Serif CN", "Source Han Serif TC", "Source Han Serif TW", "Source Han Serif", "Songti SC", SimSon, serif;
+  font-family: "Noto Sans", "PT Sans", source-han-sans-sc, "Source Han Sans SC", "Source Han Sans CN", "Source Han Sans TC", "Source Han Sans TW", "Source Han Sans", "Songti SC", SimSon, sans-serif;
   font-size: 14px;
   line-height: 1.5;
   word-wrap: break-word;
